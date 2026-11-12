@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Shipping Of Goods System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72EA6969-2772-4B95-981A-A8CF8CD07978}|Shipping Of Goods System.csproj|c:\\users\\user\\source\\repos\\shipping of goods system\\frmshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72EA6969-2772-4B95-981A-A8CF8CD07978}|Shipping Of Goods System.csproj|solutionrelative:frmshipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmShipping.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Shipping Of Goods System\\frmShipping.cs",
+              "RelativeDocumentMoniker": "frmShipping.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Shipping Of Goods System\\frmShipping.cs [Design]",
+              "RelativeToolTip": "frmShipping.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T14:54:40.316Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
